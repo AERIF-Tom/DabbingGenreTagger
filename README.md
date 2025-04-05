@@ -31,3 +31,9 @@ Uses:
 - [openpyxl](https://openpyxl.readthedocs.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [NumPy](https://numpy.org/)
+
+
+## To Do
+- fix track progress bar, so it sees how many windows there are for the track bases on track length and audio chunk length, and uses that to know where its 100% is
+- add dark theme to the about section
+- add dark theme to the scroll bar
