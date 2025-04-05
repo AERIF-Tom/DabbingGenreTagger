@@ -37,3 +37,4 @@ Uses:
 - fix track progress bar, so it sees how many windows there are for the track bases on track length and audio chunk length, and uses that to know where its 100% is
 - add dark theme to the about section
 - add dark theme to the scroll bar
+* add a visual for the audio and the overlapping
