@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE/project files
+.vscode/
+.idea/
+
+# App-generated files
+suno_tags.xlsx
+tagger_config.ini
+*.txt
