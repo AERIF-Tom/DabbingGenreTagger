@@ -24,11 +24,13 @@ python main.py
 ## Credits
 
 Built with love by **MedGrowerTom** 🌿💨  
-Inspired by the Friday Dabs crew and the power of sonic tagging.  
+Inspired by the Friday Dabs crew and the power of sonic tagging.
+
 Uses:
-- [musicnn](https://github.com/jordipons/musicnn)
-- [mutagen](https://mutagen.readthedocs.io/)
-- [openpyxl](https://openpyxl.readthedocs.io/)
+- Built using [musicnn](https://github.com/jordipons/musicnn) by Jordi Pons
+- MP3 metadata editing via [mutagen](https://mutagen.readthedocs.io/)
+- Excel support via [openpyxl](https://openpyxl.readthedocs.io/)
+- GUI made with 🍃 Tkinter + ttk
 - [TensorFlow](https://www.tensorflow.org/)
 - [NumPy](https://numpy.org/)
 
