@@ -47,7 +47,7 @@
 - See `requirements.txt` for package versions
 
 ### Install dependencies:
-```bash
+bash
 pip install -r requirements.txt
 
 ---
